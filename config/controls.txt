@@ -1,0 +1,11 @@
+Controls:
+
+W or Up Arrow    : Rotate Piece
+A or Left Arrow  : Move Left
+D or Right Arrow : Move Right
+S or Down Arrow  : Move Down
+
+Space : Drop Piece
+
+P : Pause
+Q : Quit
